@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+build/
+dist/
+*.egg-info/
+.venv/
+venv/
+sync_settings.json
+sync_errors.log
+.foldersync_trash/
+*.ico
+!assets/*.ico
