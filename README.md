@@ -1,5 +1,7 @@
 # Baffox 文件夹同步 FolderSync
 
+![Baffox FolderSync](docs/screenshot.png)
+
 一个简单、免费、开源的 Windows 文件夹同步小工具：添加几组「源文件夹 → 目标文件夹」，点一下就同步。适合把照片、作品、工作文件备份到移动硬盘、U 盘或 NAS。可以当作已停更的微软 SyncToy 的轻量替代。
 
 ![截图](docs/screenshot.png)
